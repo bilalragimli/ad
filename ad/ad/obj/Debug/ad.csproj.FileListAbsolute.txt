@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\ad\ad\bin\Debug\ad.exe.config
+C:\Users\User\source\repos\ad\ad\bin\Debug\ad.exe
+C:\Users\User\source\repos\ad\ad\bin\Debug\ad.pdb
+C:\Users\User\source\repos\ad\ad\obj\Debug\ad.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ad\ad\obj\Debug\ad.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ad\ad\obj\Debug\ad.exe
+C:\Users\User\source\repos\ad\ad\obj\Debug\ad.pdb
